@@ -128,6 +128,8 @@ Best practices:
 ## 7. Simulations Performed
 
 ### A. Sun Hours Analysis
+<img width="1281" height="425" alt="image" src="https://github.com/user-attachments/assets/07b20c77-d0d0-4515-be04-7ffd5c7ed367" />
+
 **Purpose:** Measure daylight tradeoffs caused by density.
 
 **Run conditions:**
@@ -148,6 +150,8 @@ Best practices:
 ---
 
 ### B. Microclimate / Heat Stress
+<img width="1274" height="420" alt="image" src="https://github.com/user-attachments/assets/85fd81ac-d35b-42ce-9bc6-76ecff93d060" />
+
 **Purpose:** Evaluate thermal comfort impacts of added density.
 
 **Run condition:**
@@ -164,6 +168,8 @@ Best practices:
 ---
 
 ### C. Wind Comfort Analysis
+<img width="1283" height="423" alt="image" src="https://github.com/user-attachments/assets/9824d9f3-5445-433d-a01b-8c03c8fb20ab" />
+
 **Purpose:** Understand pedestrian-level comfort and ventilation.
 
 **Run condition:**
@@ -180,6 +186,8 @@ Best practices:
 ---
 
 ### D. Solar Panel Potential
+<img width="1285" height="434" alt="image" src="https://github.com/user-attachments/assets/da5dde2b-5b41-446e-be50-0ce2eb9514af" />
+
 **Purpose:** Evaluate energy resilience benefits of added density.
 
 **Metrics recorded:**
